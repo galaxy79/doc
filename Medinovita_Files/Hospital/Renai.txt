@@ -1,0 +1,57 @@
+<h4 class="display-4">Overview</h4>
+<p class="h5-responsive">
+  Apollo Hospital Indraprastha is a multi-specialty hospital that is part of the Apollo Hospitals Group. The Apollo Hospitals Group opened its first hospital in 1983 and has become one of the largest integrated healthcare groups in India, with 10,000 beds across 64 hospitals.
+  Apollo Hospital Indraprastha is accredited by the US Joint Commission International (JCI) and is fitted with 710 patient beds. The multi-specialist hospital has 12 centers of excellence, as well as 52 specialized medical departments which include cardiology, neurosurgery, orthopedics, neurology, oncology, spinal surgery, urology, plastic and cosmetic surgery, bariatric surgery, and general surgery amongst others.
+  Services provided by the hospital for international patients include airport transfer, medical record translation, assistance with booking flights and accommodation, and visa assistance. Facilities at the hospital include a pharmacy on-site, laundry services, parking, and there is a range of patient room types available such as deluxe rooms and suites.  
+<p class="h5">
+<h4 class="display-4">Location</h4>
+</p>
+<p class="h5-responsive">
+  Apollo Hospital Indraprastha is located in New Delhi, 14 km from Safdarjung Airport and 31 km from the Indira Gandhi International Airport. The hospital can be reached via the 460 and the 460CL bus lines, which link the hospital and the airport. The nearest Metro station to the hospital is the Jasola Apollo station, located within 200m.
+  New Delhi, India's capital city, offers plenty of cultural attractions. The Red Fort, the former residence of the Mughal emperor of India, can be reached within 17 km from the hospital and the Lotus Temple, famous for its flower shaped roof, is located just 7 km from the hospital.
+<p class="h5-responsive">
+  An autograft comes from a bone inside your body, such as your ribs, hips, pelvis, or wrist.
+  The type of graft used depends on the type of injury your surgeon will be repairing. Allografts are commonly used in hip, knee, or long bone reconstruction. Long bones include arms and legs. The advantages are there’s no additional surgery needed to acquire the bone. It also lowers your risk of infection since additional incisions or surgery aren’t required
+</p>
+<p class="h5-responsive"></p>
+<div class="row">
+  <div class="col-md-7">
+	 <h4 class="display-4">Languages Translation Service </h4>
+	 <p class="h5-responsive">English,Malayalam,Hindi</p>
+  </div>
+</div>
+<p class="h5">
+<h4 class="display-4">Amnities for International Patients</h4>
+</p>  
+<div class="row">
+  <div class="col-md-6">
+	 <div class="col-md-7">
+		<p class="h4-responsive"><span class="glyphicon glyphicon-plus"></span> &nbsp;Medical records transfer</p>
+	 </div>
+  </div>
+  <div class="col-md-6">
+	 <div class="col-md-7">
+		<p class="h4-responsive"><span class="glyphicon glyphicon-bed"></span> &nbsp;Rehabilitation</p>
+	 </div>
+  </div>
+  <div class="col-md-6">
+	 <div class="col-md-7">
+		<p class="h4-responsive"><span class="glyphicon glyphicon-knight"></span> &nbsp; Airport pickup</p>
+	 </div>
+  </div>
+  <div class="col-md-6">
+	 <div class="col-md-7">
+		<p class="h4-responsive"><span class="glyphicon glyphicon-tower"></span> &nbsp; Hotel booking</p>
+	 </div>
+  </div>
+  <div class="col-md-6">
+	 <div class="col-md-7">
+		<p class="h4-responsive"><span class="glyphicon glyphicon-glass"></span> &nbsp; Special offer for group stays</p>
+	 </div>
+  </div>
+  <div class="col-md-6">
+	 <div class="col-md-7">
+		<p class="h4-responsive"><span class="glyphicon glyphicon-signal"></span> &nbsp; Free Wifi</p>
+	 </div>
+  </div>
+</div>
