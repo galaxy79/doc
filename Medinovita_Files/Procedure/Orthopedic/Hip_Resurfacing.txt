@@ -1,13 +1,16 @@
-Hip resurfacing
+<h2 class="mb30">Hip resurfacing</h2>
+<p class="h5-responsive">
 	Hip resurfacing is a conservative artificial joint replacement, where the hip joint is relined, instead of being completely replaced as in total hip replacement procedure. The goal of hip resurfacing is to provide a more active and improved quality of life. This is done by restoring functionality to the hip through replacing damaged bone and cartilage in the socket, while preserving as much natural bone as possible. In hip resurfacing, the femoral head is not removed, but is instead trimmed and resurfaced with a smooth metal dome.
-	
-Candidates for Hip Resurfacing
+</p>	
+<p class="h5">Candidates for Hip Resurfacing</p>
+<p class="h5-responsive">
 	With any procedure your personal physician will inform if you are a candidate for this procedure, however many candidates for hip resurfacing tend to be under 60, with strong, healthy bones as it leaves more bone intact.
 	Hip resurfacing surgery (HRS) can address pain from mild to moderate osteoarthritis before major bone damage has occurred.Referred pain from the back, poor circulation or damaged nerves may not be resolved with an HRS. So this type of joint surgery should be considered if:
 	All conservative treatments have already been tried and unsuccessful.
 	There is debilitating and severe pain with loss of function.
-	
-Preparing for surgery
+</p>	
+<p class="h5">Preparing for surgery</p>
+<p class="h5-responsive">
 	Your surgeon will send you for routine blood tests and any other investigations required prior to your surgery.
 	You will be asked to undertake a general medical check-up with a physician.
 	You should have any other medical, surgical or dental problems attended to prior to your surgery.
@@ -15,34 +18,37 @@ Preparing for surgery
 	Cease aspirin or anti-inflammatory medications 10 days prior to surgery as they can cause bleeding.
 	Cease any naturopathic or herbal medications 10 days before surgery.
 	Stop smoking as long as possible prior to surgery.
+</p>
 	
-Surgical Procedure
+<p class="h5"> Surgical Procedure </p>
+<p class="h5-responsive">
 	An incision is made over the hip to expose the hip joint. The acetabulum (socket) is prepared using a special instrument called a reamer. The acetabular component is then inserted into the socket. This is sometimes reinforced with screws or occasionally cemented. A liner which can be made of plastic, metal or ceramic material is then placed inside the acetabular component The femur (thigh bone) is then prepared. The femoral head which is arthritic is cut off and the bone prepared using special instruments, to exactly fit the new metal femoral component. The femoral component is then inserted into the femur. This may be press fit relying on bone to grow into it or cemented depending on a number of factors such as bone quality and surgeon's preference. A trial reduction (putting the hip back into place) is performed to make sure everything fits well. The real femoral head component is then placed on the femoral stem. This can be made of metal or ceramic. The hip is then reduced again, for the last time The muscles and soft tissues are then closed carefully
+</p>
 	
-Post-Operative care
+<p class="h5"> Post-Operative care </p>
+<p class="h5-responsive">
 	You will wake up in the recovery room with a number of monitors to record your vitals, (Blood pressure, Pulse, Oxygen saturation, temperature, etc.) You will have a dressing on your hip and drains coming out of your wound. Post-operative X-rays will be performed in recovery. Once you are stable and awake you will be taken back to the ward. You will have one or two IV's in your arm for fluid and pain relief. This will be explained to you by your anesthetist. On the day following surgery, your drains will usually be removed and you will be allowed to sit out of bed or walk depending on your surgeon's preference. In is normal but if you are in a lot of pain, inform your nurse. You will be able to put all your weight on your hip and your physical therapist will help you with the post-op hip exercises. You will be discharged home or to a rehabilitation hospital approximately 5-7 days depending on your pain and help at home. Sutures are usually dissolvable but if not are removed at about 10 days. A post-operative visit will be arranged prior to your discharge. You will be instructed to with crutches for two weeks following surgery and to use a cane from then on until 6 weeks post-op.
+</p>
 	
-Recovery and Rehabilitation
-	Wound Care 
-		It is important to keep your wound as dry as possible. Most patients are discharged home with a waterproof dressing, which can be left on for showering.
-		During the first 24 hours, it is normal to have some minor bleeding. After being discharged home, there should be no discharge, redness or bleeding around the wound.
-	Diet 
-		There are usually no specific diet or extra vitamins / nutrients needed to recover from a total hip operation. It is important to have a normal healthy balanced diet and plenty of nonalcoholic fluids.
-	Exercise
-		Physiotherapy and the exercises that you perform at home are extremely important to achieve the best results after a hip replacement.After returning home, you should gradually be able to do more and more. It is important to look after your new hip and follow your surgeon's and physiotherapy instructions.
-		Your program may include exercises that work on your:
-		walking
-		sitting
-		stair climbing
-		muscle strength
-		
-Cost of HIP replacement Abroad
-		Below table compares the approximate cost of Hip Replacement Surgery cost in India with various other countries in the world. However, this is a rough estimate and actual cost may vary from case to case	
-		
-		Country	Hip Replacement Surgery Cost
-		India	7,000 $
-		USA	57,000 $
-		Singapore	14,000 $
-		UAE	16,000 $
-		Malaysia	12,800 $
-		Thailand	12,000 $
+<p class="h5">Recovery and Rehabilitation </p>
+<p class="h5-responsive">
+	<p class="h5">Wound Care </p>  
+		 <p class="h5-responsive">
+			It is important to keep your wound as dry as possible. Most patients are discharged home with a waterproof dressing, which can be left on for showering.
+			During the first 24 hours, it is normal to have some minor bleeding. After being discharged home, there should be no discharge, redness or bleeding around the wound.
+		 </p>
+	<p class="h5">Diet </p> 
+	    <p class="h5-responsive">
+			There are usually no specific diet or extra vitamins / nutrients needed to recover from a total hip operation. It is important to have a normal healthy balanced diet and plenty of nonalcoholic fluids.
+		 </p>
+	<p class="h5">Exercise</p> 
+		<p class="h5-responsive">
+			Physiotherapy and the exercises that you perform at home are extremely important to achieve the best results after a hip replacement.After returning home, you should gradually be able to do more and more. It is important to look after your new hip and follow your surgeon's and physiotherapy instructions.
+			Your program may include exercises that work on your:
+			1.walking 
+			2.sitting
+			3.stair climbing
+			4.muscle strength
+		</p>
+</p>		
+

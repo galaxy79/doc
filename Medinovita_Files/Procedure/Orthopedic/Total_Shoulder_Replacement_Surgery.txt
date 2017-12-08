@@ -1,7 +1,9 @@
-Total shoulder Replacement Surgery
+<h2 class="mb30">Total shoulder Replacement Surgery</h2>
+<p class="h5-responsive">
 	Total shoulder replacement is a surgery to replace the damaged parts of the shoulder with artificial parts (components) called prostheses. The treatment options are either replacement of just the head of the humerus bone (ball), or replacement of both the ball and the socket (glenoid). The treatment options are either replacement of just the head of the humerus bone (ball), or replacement of both the ball and the socket (glenoid).The goal of total shoulder replacement surgery is to relieve shoulder pain and increase shoulder function by resurfacing the bones that meet at the shoulder's ball-and-socket joint, or glenohumeral joint. The surgeon removes the humeral head at the top of the arm bone (humerus), reshapes the shoulder socket (glenoid), and attaches prosthetic components to both bones. If nonsurgical treatments like medications and activity changes are no longer helpful for relieving pain, you may want to consider shoulder joint replacement surgery. Joint replacement surgery is a safe and effective procedure to relieve pain and help you resume everyday activities.
-
-Candidates for shoulder replacement
+</p>
+<p class="h5">Candidates for shoulder replacement</p>
+<p class="h5-responsive">
 	Most candidates for traditional total shoulder replacement have osteoarthritis or rheumatoid arthritis, with moderate to severe joint degradation that shows up on X-rays and other imaging. These patients often report the following:
 	Pain that is moderate to severe with activity
 	Pain that affects sleep
@@ -10,24 +12,29 @@ Candidates for shoulder replacement
 	Insufficient pain relief from non-surgical treatments, such as non-steroidal anti-inflammatory drugs (NSAIDs), physical therapy, and steroid injections
 	Candidates may have tried non-major surgery, such as arthroscopic shoulder surgery, but did not get adequate relief from symptoms.
 	Other reasons for having shoulder replacement surgery include a badly broken bone(s) or a tumor.
-	
-Surgical Procedure
-    There are three different types of procedures
-			1. 	Stemmed Hemiarthroplasty
+</p>	
+<p class="h5">Surgical Procedure</p>
+    <p class="h5">There are three different types of procedures</p>
+			<p class="h5">1. 	Stemmed Hemiarthroplasty</p>
+			<p class="h5-responsive">			
 				Depending on the condition of your shoulder, your surgeon may replace only the ball. This procedure is called a hemiarthroplasty. In a traditional hemiarthroplasty, the head of the humerus is replaced with a metal ball and stem, similar to the component used in a total shoulder replacement. This is called a stemmed hemiarthroplasty.
 				Some surgeons recommend hemiarthroplasty when the humeral head is severely fractured but the socket is normal. Other indications for a hemiarthroplasty include:
 				Arthritis that only involves the head of the humerus with a glenoid that has a healthy and intact cartilage surface
 				Shoulders with severely weakened bone in the glenoid
 				Some shoulders with severely torn rotator cuff tendons and arthritis
 				Sometimes, surgeons make the decision between a total shoulder replacement and a hemiarthroplasty in the operating room at the time of the surgery.
-			2.	Resurfacing Hemiarthroplasty
+			</p>
+			<p class="h5">2.	Resurfacing Hemiarthroplasty</p>
+			<p class="h5-responsive">
 				Resurfacing hemiarthroplasty involves replacing just the joint surface of the humeral head with a cap-like prosthesis without a stem. With its bone preserving advantage, it offers those with arthritis of the shoulder an alternative to the standard stemmed shoulder replacement.
 				Resurfacing hemiarthroplasty may be an option for you if:
 				The glenoid still has an intact cartilage surface
 				There has been no fresh fracture of the humeral neck or head
 				There is a desire to preserve humeral bone
 				For patients who are young or very active, resurfacing hemiarthroplasty avoids the risks of component wear and loosening that may occur with conventional total shoulder replacements in this patient population. Due to its more conservative nature, resurfacing hemiarthroplasty may be easier to convert to total shoulder replacement, if necessary at a later time.
-			3.	Reverse Total Shoulder Replacement
+			</p>
+			<p class="h5">3.	Reverse Total Shoulder Replacement</p>
+			<p class="h5-responsive">
 				Another type of shoulder replacement is called reverse total shoulder replacement. Reverse total shoulder replacement is used for people who have:
 				An x-ray of a reverse total shoulder replacement.
 				Completely torn rotator cuffs with severe arm weakness
@@ -35,23 +42,27 @@ Surgical Procedure
 				Had a previous shoulder replacement that failed
 				For these individuals, a conventional total shoulder replacement can still leave them with pain. They may also be unable to lift their arm up past a 90-degree angle. Not being able to lift one's arm away from the side can be severely debilitating.
 				In reverse total shoulder replacement, the socket and metal ball are switched. That means a metal ball is attached to the shoulder bone and a plastic socket is attached to the upper arm bone. This allows the patient to use the deltoid muscle instead of the torn rotator cuff to lift the arm.
-
-Procedure details
-	You will receive anesthesia before this surgery. Two types of anesthesia can be used:
-	General anesthesia, which means you will be unconscious and unable to feel pain.
-	Regional anesthesia to numb your arm and shoulder area so that you do not feel any pain in this area. If you receive only regional anesthesia, you will also be given medicine to help you relax during the operation.
-	The shoulder is a ball and socket joint. The round end of the arm bone fits into the opening at the end of the shoulder blade, called the socket. This type of joint allows you to move your arm in most directions.
-	For total shoulder replacement, the round end of your arm bone will be replaced with an artificial stem that has a rounded metal head. The socket part (glenoid) of your shoulder blade will be replaced with a smooth plastic shell (lining) that will be held in place with special cement. If only 1 of these 2 bones needs to be replaced, the surgery is called a partial shoulder replacement, or a hemiarthroplasty.
-	For shoulder joint replacement, your surgeon will make an incision (cut) over your shoulder joint to open up the area. Then your surgeon will:
-	Remove the head (top) of your upper arm bone (humerus)
-	Cement the new metal head and stem into place
-	Smooth the surface of the old socket and cement the new one in place
-	Close your incision with staples or sutures
-	Place a dressing (bandage) over your wound
-	Your surgeon may place a tube in this area to drain fluid that may build up in the joint. The drain will be removed when you no longer need it.
-	This surgery normally takes 1 to 3 hours.
-
-Recovery/ Rehabilitation
+			</p>
+	<p class="h5">Procedure details</p>
+	<p class="h5-responsive">
+	   You will receive anesthesia before this surgery. Two types of anesthesia can be used:
+	</p>
+	<p class="h5-responsive">
+		General anesthesia, which means you will be unconscious and unable to feel pain.
+		Regional anesthesia to numb your arm and shoulder area so that you do not feel any pain in this area. If you receive only regional anesthesia, you will also be given medicine to help you relax during the operation.
+		The shoulder is a ball and socket joint. The round end of the arm bone fits into the opening at the end of the shoulder blade, called the socket. This type of joint allows you to move your arm in most directions.
+		For total shoulder replacement, the round end of your arm bone will be replaced with an artificial stem that has a rounded metal head. The socket part (glenoid) of your shoulder blade will be replaced with a smooth plastic shell (lining) that will be held in place with special cement. If only 1 of these 2 bones needs to be replaced, the surgery is called a partial shoulder replacement, or a hemiarthroplasty.
+		For shoulder joint replacement, your surgeon will make an incision (cut) over your shoulder joint to open up the area. Then your surgeon will:
+		Remove the head (top) of your upper arm bone (humerus)
+		Cement the new metal head and stem into place
+		Smooth the surface of the old socket and cement the new one in place
+		Close your incision with staples or sutures
+		Place a dressing (bandage) over your wound
+		Your surgeon may place a tube in this area to drain fluid that may build up in the joint. The drain will be removed when you no longer need it.
+		This surgery normally takes 1 to 3 hours.
+    </p>
+<p class="h5">Recovery/ Rehabilitation</p>
+<p class="h5-responsive">
 	After leaving the operating room with the arm immobilized at the side in a removable canvass arm sling, the patient will wake up in the recovery room.
 	Based on the range of motion and stability of the implant, physical therapy begins on the first postoperative day, following x-rays documenting that the implant is properly positioned. Sling immobilization is enforced during the early rehabilitation phase to permit the tendons which have been repaired to heal. The sling is removable for showering and rehabilitation exercises.
 	The patient is permitted to use the hand and wrist soon after surgery, and the whole arm, including shoulder, for light activity beginning at approximately six weeks after surgery. Unrestricted, active use of the arm may begin as early as eight weeks after surgery.
@@ -60,8 +71,9 @@ Recovery/ Rehabilitation
 	At about three months after surgery, most patients are reasonably comfortable, have motion about half normal, but do notice some weakness.
 	At six months, most patients are pain-free (although weather does have an effect), and have motion and strength about two-thirds normal.
 	At one year, approximately 95% of TSA patients will be pain-free, and the remaining will usually have no more than a weather ache or an occasional ache with excessive activity. Likewise, there will probably not be significant strength limitations, depending on the condition of the deltoid and rotator cuff, particularly if both these muscle groups were normal before surgery.
-
-Do's and Don'ts
+</p>
+<p class="h5">Do's and Don'ts</p>
+<p class="h5-responsive">
 	The success of your surgery will depend largely on how well you follow your orthopaedic surgeon's instructions at home during the first few weeks after surgery. Here are some common do's and don'ts for when you return home:
 	Don't use the arm to push yourself up in bed or from a chair because this requires forceful contraction of muscles.
 	Do follow the program of home exercises prescribed for you. You may need to do the exercises 2 to 3 times a day for a month or more.
@@ -71,9 +83,4 @@ Do's and Don'ts
 	Don't participate in contact sports or do any repetitive heavy lifting after your shoulder replacement.
 	Do avoid placing your arm in any extreme position, such as straight out to the side or behind your body for the first 6 weeks after surgery.
 	Many thousands of patients have experienced an improved quality of life after shoulder joint replacement surgery. They experience less pain, improved motion and strength, and better function.
-
-Cost of Shoulder replacement in India
-	Below table compares the approximate cost of knee Replacement Surgery cost in India with various other countries in the world. However, this is a rough estimate and actual cost may vary from case to case	
-	Shoulder replacement		Days in Hospital	Procedure Cost (USD)
-	Single (Including Implant)		7					8200					
-	Double (Including Implant)		14					15,000					
+</p>

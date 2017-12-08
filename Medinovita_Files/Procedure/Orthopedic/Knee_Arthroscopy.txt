@@ -1,25 +1,34 @@
-Knee Arthroscopy
+<h2 class="mb30">Knee Arthroscopy</h2>
+<p class="h5-responsive">
 	Arthroscopy involves looking at the inside of the knee joint with a small telescope and camera (arthroscope). The image is projected onto a television monitor via a fibreoptic cable. This modern technique allows the surgeon to fully inspect all of the interior structures of the knee joint without needing open surgery. Despite the fact that the incisions are quite small, a large amount of surgery can be performed within the knee. Arthroscopic surgery is usually performed as day surgery (on a 'day only' basis).
-	Arthroscopy is useful in evaluating and treating the following conditions
-	1. Torn floating cartilage (meniscus): The cartilage is trimmed to a stable rim or occasionally repaired
-	2. Torn surface (articular) cartilage
-	3. Removal of loose bodies (cartilage or bone that has broken off) and cysts.
-	4. Reconstruction of the Anterior Cruciate ligament
-	5. Patello-femoral (knee-cap) disorders
-	6. Washout of infected knees
-	7. General diagnostic purposes
+	<p class="h5-responsive">
+		Arthroscopy is useful in evaluating and treating the following conditions
+	</p>
+	<p class="h5-responsive">
+		1. Torn floating cartilage (meniscus): The cartilage is trimmed to a stable rim or occasionally repaired
+		2. Torn surface (articular) cartilage
+		3. Removal of loose bodies (cartilage or bone that has broken off) and cysts.
+		4. Reconstruction of the Anterior Cruciate ligament
+		5. Patello-femoral (knee-cap) disorders
+		6. Washout of infected knees
+		7. General diagnostic purposes
+	</p>
+</p>
+<p class="h5">Surgical procedures</p>
+   <p class="h5-responsive">
+		Your doctor will give you an anesthetic before your knee arthroscopy. This may be:
+		•	local (numbs your knee only)
+		•	regional (numbs you from the waist down)
+		•	general (puts you completely to sleep)
+	</p>
+	<p class="h5-responsive">
+		If you’re awake, you may be able to watch the procedure on a monitor.
+		The surgeon will begin by making a few small incisions, or cuts, in your knee. Sterile salt water, or saline, will then pump in to expand your knee. This makes it easier for the surgeon to see inside the joint. The arthroscope enters one of the cuts and the surgeon will look around in your joint using the attached camera. The surgeon can see the images produced by the camera on the monitor in the operating room.
+		When the surgeon locates the problem in your knee, they may then insert small tools into the incisions to correct the issue. After the surgery, the surgeon drains the saline from your joint and closes your cuts with stitches.
+	</p>
 
-Surgical procedures
-	Your doctor will give you an anesthetic before your knee arthroscopy. This may be:
-	•	local (numbs your knee only)
-	•	regional (numbs you from the waist down)
-	•	general (puts you completely to sleep)
-	
-	If you’re awake, you may be able to watch the procedure on a monitor.
-	The surgeon will begin by making a few small incisions, or cuts, in your knee. Sterile salt water, or saline, will then pump in to expand your knee. This makes it easier for the surgeon to see inside the joint. The arthroscope enters one of the cuts and the surgeon will look around in your joint using the attached camera. The surgeon can see the images produced by the camera on the monitor in the operating room.
-	When the surgeon locates the problem in your knee, they may then insert small tools into the incisions to correct the issue. After the surgery, the surgeon drains the saline from your joint and closes your cuts with stitches.
-
-Post-operative recovery                                                                   
+<p class="h5">Post-operative recovery  </p>  
+<p class="h5-responsive">                                                               
 	You will wake up in the recovery room and then be transferred back to the ward
 	A bandage will be around the operated knee.
 	Once you are recovered your drip will be removed and you will be shown a number of exercises to do.
@@ -29,12 +38,5 @@ Post-operative recovery
 	It is NORMAL for the knee to swell after the surgery. Elevating the leg when you are seated and placing Ice-Packs on the knee will help to reduce swelling. (Ice packs on for 20 min 3-4 times a day until swelling has reduced)
 	You are able to drive and return to work when comfortable unless otherwise instructed
 	Please make an appointment 7-10 days after surgery to monitor your progress and remove the 2 stitches in your knee.
-
-Cost of knee replacement
-		Below table compares the approximate cost of knee Replacement Surgery cost in India with various other countries in the world. However, this is a rough estimate and actual cost may vary from case to case	
-
-		Procedure	 					USA ($)	Singapore($)	UK($)	India ($)
-		Total Knee Replacement			40000	10000			13000	8500
-		Knee replacement (unilateral)	32,000	25,000			38,000	3,000
-		Knee replacement (bilateral)	54,920	20,000			56,000	5,100
+</p>
 

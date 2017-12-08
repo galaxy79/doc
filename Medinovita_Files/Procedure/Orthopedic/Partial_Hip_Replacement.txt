@@ -1,78 +1,97 @@
-Partial Hip replacement
+<h2 class="mb30">Partial Hip replacement</h2>
+<p class="h5-responsive">
 	Partial hip replacement (also called total hip hemiarthroplasty) is an operation that is used most commonly to treat a fractured hip. The operation is similar to a total hip replacement, but it involves only half of the hip. (Hemi means half, and arthroplasty means joint replacement.) The hemiarthroplasty replaces only the ball portion of the hip joint, not the socket portion. In a total hip replacement, the socket is also replaced.
-	
-What do surgeons hope to achieve with the operation?
+</p>	
+<p class="h5">What do surgeons hope to achieve with the operation?</p>
+<p class="h5-responsive">
 	Fractures of the hip often involve the femoral neck. In many cases, the risk of developing AVN is so high that your surgeon may suggest not trying to fix the fracture. Instead, the femoral head can be removed and replaced with an artificial piece, or prosthesis. This is suggested because fixing the fracture carries a high chance that you will need a second operation several months later if the femoral head dies due to AVN.
 	When the hip is fractured, the socket portion (the acetabulum) is usually not injured. If the articular cartilage of the hip socket is in good condition, the metal ball of the hemiarthroplasty prosthesis can glide against the cartilage without damaging the surface. This procedure is easier to do than replacing both the ball and the socket, and it allows patients to begin moving right away after surgery. Early movement helps prevent dangerous complications that come from being immobilized in bed.
 	A fracture of the hip in an aging adult is not simply a broken bone, it is a life-threatening illness. Replacing the damaged section of hip with a hemiarthroplasty can quickly get the patient out of bed and moving to reduce the risk of complications.
-	
-How is the partial hip replacement different from total hip replacement?
+<p>	
+<p class="h5">How is the partial hip replacement different from total hip replacement?</p>
+<p class="h5-responsive">
 	The partial hip replacement surgery is less invasive than total hip replacement. With the partial procedure, only the ball of the femur must be replaced, and the joint socket is left alone. This surgery is used for patients who require replacement of the femoral head.
-	
-Candidates for Surgery
-	Hemiarthroplasties are favored as treatment for hip fractures in the following situations:
-	•	the fracture has disrupted the blood supply to the femoral head.In this case even if the fracture heals, the head of the femur will crumble. This is known as avascular necrosis and will lead to the hip joint failing. 
-	•	severe osteoporosis: if the bone is too brittle, other methods of fracture treatment will not be successful
-	•	A fracture that has been present for several days
-	Hemiarthroplasties CAN NOT be performed if there is:
-	•	osteoarthritis of the acetabulum: if the hip socket (or acetabulum) is worn out or damaged due to osteoarthritis, then a hemiarthroplasty will not succeed. In this case a total hip replacement may be required.
-	•	a pre-existing infection: if there is an infection in or around a hip, then a hemiarthroplasty can not be performed	
-	
-Preparing for surgery
+</p>	
+<p class="h5">Candidates for Surgery</p>
+	<p class="h5">Hemiarthroplasties are favored as treatment for hip fractures in the following situations:</p>
+	<p class="h5-responsive">
+		•	the fracture has disrupted the blood supply to the femoral head.In this case even if the fracture heals, the head of the femur will crumble. This is known as avascular necrosis and will lead to the hip joint failing. 
+		•	severe osteoporosis: if the bone is too brittle, other methods of fracture treatment will not be successful
+		•	A fracture that has been present for several days
+	</p>
+	<p class="h5">Hemiarthroplasties CAN NOT be performed if there is:</p>
+	<p class="h5-responsive">
+		•	osteoarthritis of the acetabulum: if the hip socket (or acetabulum) is worn out or damaged due to osteoarthritis, then a hemiarthroplasty will not succeed. In this case a total hip replacement may be required.
+		•	a pre-existing infection: if there is an infection in or around a hip, then a hemiarthroplasty can not be performed	
+	</p>
+<p class="h5">Preparing for surgery</p>
+<p class="h5-responsive">
 	This operation is usually an emergency surgery resulting from a hip fracture that often results from a fall. For this reason it is likely you may not have had time to plan and prepare. If you come in to the Emergency Department, the ED doctors will make sure you are stable. They may give you some fluids and oxygen as well as pain relief, before sending you to get X-Rays of your hip.
-	The orthopedic surgeons will need to see you to assess your injury and your general health before deciding if you can be taken straight to surgery. Some tests that may be ordered to check that you're fit for surgery include:
+	The orthopedic surgeons will need to see you to assess your injury and your general health before deciding if you can be taken straight to surgery. 
+</p>
+	<p class="h5">Some tests that may be ordered to check that you're fit for surgery include: </p>
+	<p class="h5-responsive">
 		Blood tests
 		Chest X-Ray
 		Urine test
 		ECG
-	You will be asked not to eat anything until the plan for surgery is confirmed. In the meantime, you will be kept comfortable and possibly taken up to the ward.
-	Make sure you tell your doctor if you:
-	Have heart, lung or blood conditions
-	Have ever taken cortisone, prednisolone or other steroids
-	If you are taking warfarin or aspirin
-	Ideally, a caregiver, such as a family member or friend, will help make arrangements for you while you are in the hospital. The surgeon and care team will communicate with your caregiver to help with these preparations.
-	
-The Surgery
+    </p>
+	<p class="h5-responsive">
+		You will be asked not to eat anything until the plan for surgery is confirmed. In the meantime, you will be kept comfortable and possibly taken up to the ward.
+		Make sure you tell your doctor if you:
+		Have heart, lung or blood conditions
+		Have ever taken cortisone, prednisolone or other steroids
+		If you are taking warfarin or aspirin
+		Ideally, a caregiver, such as a family member or friend, will help make arrangements for you while you are in the hospital. The surgeon and care team will communicate with your caregiver to help with these preparations.
+	</p>
+<p class="h5">The Surgery</p>
+<p class="h5-responsive">
 	To begin with, the surgeon makes an incision on the thigh to allow access to the hip joint. Once the hip joint has been exposed, the surgeon removes the head of the femur from the socket.The stem of the prosthesis is then inserted into the femur. The metal ball that makes up the femoral head is then attached.
 	Once the implant is in place, the new artificial hip is put back into the hip socket. The surgeon will then make sure the hip is working properly before he closes the incision using stitches or staples
-
-Your Stay in the Hospital
+</p>
+<p class="h5">Your Stay in the Hospital</p>
+<p class="h5-responsive">
 	You will usually stay in the hospital for a few days.
 	After surgery, the site of the incision will be covered with a dressing. Special boots or stockings are placed on your feet to help prevent blood clots from forming. To protect your hip during early recovery, a special triangular splint may be placed in-between your legs to keep them apart.
-	
-Pain relief
+</p>	
+<p class="h5">Pain relief</p>
+<p class="h5-responsive">
 	After surgery, you will feel pain in your thigh. If you have been given a spinal injection during your anesthetic, your legs may be numb for the first 12 hours. Pain medication, either tablets or injections, will be given to make you as comfortable as possible.
-	
-Physiotherapy
+</p>	
+<p class="h5">Physiotherapy</p>
+<p class="h5-responsive">
 	Breathing: To avoid lung problems after surgery, you will be asked to breathe deeply and cough frequently. This will help avoid pneumonia and lung collapse.
 	Walking: Walking and light activity are important to your recovery and will begin the day of or the day after your surgery. Most patients who undergo total hip replacement begin standing and walking with the help of a walking support and a physiotherapist the day after surgery.
 	The physiotherapist will teach you specific exercises to strengthen your hip and restore movement for walking and other normal daily activities.
-	
-How long will I stay in hospital?
+</p>	
+<p class="h5">How long will I stay in hospital?</p>
+<p class="h5-responsive">
 	Patients are usually able to go home after spending 4 - 7 days in the hospital. You are ready to go home when you can safely get in and out of bed, walk up to 20 meters with your crutches or walker, go up and down stairs safely, and understand your hip precautions. Patients who still need extra care may be sent to a different hospital ward for further rehabilitation before they go home.
-	
-Recovery and Rehabilitation
+</p>	
+<p class="h5">Recovery and Rehabilitation</p>
 
-	Wound Care 
+	<p class="h5">Wound Care</p>
+	<p class="h5-responsive">
 		It is important to keep your wound as dry as possible. Most patients are discharged home with a waterproof dressing, which can be left on for showering.
 		During the first 24 hours, it is normal to have some minor bleeding. After being discharged home, there should be no discharge, redness or bleeding around the wound.
-	Diet 
+	</p>
+	<p class="h5">Diet</p>
+	<p class="h5-responsive">
 		There are usually no specific diet or extra vitamins / nutrients needed to recover from a total hip operation. It is important to have a normal healthy balanced diet and plenty of nonalcoholic fluids.
-	Exercise
+	</p>	
+	<p class="h5">Exercise</p>
+	<p class="h5-responsive">
 		Physiotherapy and the exercises that you perform at home are extremely important to achieve the best results after a hip replacement.After returning home, you should gradually be able to do more and more. It is important to look after your new hip and follow your surgeon's and physiotherapy instructions.
-		Your program may include exercises that work on your:
+	</p>
+		<p class="h5">Your program may include exercises that work on your:</p>
+		<p class="h5-responsive">
 			walking
 			sitting
 			stair climbing
 			muscle strength
-			
-Cost of HIP replacement
+		</p>	
+<p class="h5">Cost of HIP replacement</p>
+<p class="h5-responsive">
 	Below table compares the approximate cost of Hip Replacement Surgery cost in India with various other countries in the world. However, this is a rough estimate and actual cost may vary from case to case	
+</p>	
 	
-	Country	Hip Replacement Surgery Cost
-	India	7,000 $
-	USA	57,000 $
-	Singapore	14,000 $
-	UAE	16,000 $
-	Malaysia	12,800 $
-	Thailand	12,000 $

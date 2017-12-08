@@ -1,4 +1,5 @@
-Core Decompression
+<h2 class="mb30">Core Decompression</h2>
+<p class="h5-responsive">
 	Core decompression is a surgical procedure that involves surgical drilling into the area of dead bone near the joint. This reduces pressure, allows for increased blood flow, and slows or stops bone and/or joint destruction. Core decompression is commonly performed to treat osteonecrosis.
 	This procedure involves drilling one larger hole or several smaller holes into the femoral head to relieve pressure in the bone and create channels for new blood vessels to nourish the affected areas of the hip.
 	When osteonecrosis of the hip is diagnosed early, core decompression is often successful in preventing collapse of the femoral head and the development of arthritis.
@@ -6,15 +7,17 @@ Core Decompression
 	Many bone graft options are available today. The standard technique is to take extra bone from one part of your body (harvest) and move (graft) it to another part of your body. This type of graft is called an autograft.
 	Many surgeons use bone that is harvested from a donor or cadaver. This type of graft is typically acquired through a bone bank. Like other organs, bone can be donated upon death.
 	There are also several synthetic bone grafts available today.
-
-Expectations from surgery
+</p>
+<p class="h5">Expectations from surgery</p>
+<p class="h5-responsive">
 	Core decompression prevents osteonecrosis from progressing to severe arthritis and the need for hip replacement in 25% to 85% of cases. This depends upon the stage and size of the osteonecrosis at the time of the procedure.
 	Core decompression achieves the best results when osteonecrosis is diagnosed in its early stages, before the bone collapses. In many of these cases, the bone heals and regains its blood supply after core decompression. It takes a few months for the bone to heal, and during this time, a walker or crutches will be needed to prevent putting stress on the damaged bone.
 	Patients with successful core decompression procedures typically return to walking unassisted in about 3 months and have complete pain relief.
 	When osteonecrosis is diagnosed after collapse of the bone, core decompression is not usually successful in preventing further collapse. In this situation, the patient is best treated with a total hip replacement, which relieves pain and restores function in 90% to 95% of patients.
-
-Surgical procedures
+</p>
+<p class="h5">Surgical procedures</p>
+<p class="h5-responsive">
 	The operation is an open procedure and the surgeon uses x-ray guidance (fluoroscopy) to be able to clearly visualize the area. The surgeon takes a “plug” of bone out of the affected area and often places bone chips back into the area to provide an osteoinductive (bone forming) environment. As blood flow is restored to the area, the bone chips provide a scaffolding and stimulus for new bone to form.
-
+</p>
 
 
