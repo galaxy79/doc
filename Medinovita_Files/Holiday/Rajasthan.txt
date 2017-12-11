@@ -1,0 +1,99 @@
+<h4 class="display-4">Overview</h4>
+<p class="h5-responsive">
+  Regarded as one of the most prominent tourist destinations in India, Keraa, has unique geographical features that gives the state a special place in the world tourism map. The land is bordered by the towering Western Ghats on the west and Arabian Sea on the east. The place is kept green throughout the year by a network of 44 rivers.
+</p>
+<p class="h5-responsive">
+  These rivers, except three, originate in the Western Ghats and create a vast network of canals, inlets, streams, rivulets, estuaries and backwaters. The backwaters of Kerala are a labyrinthine system that consists of lagoons and lakes which are linked through many canals. These backwaters witness a number of tourist activities throughout the year.
+</p>
+<p class="h5-responsive"> 
+  The romantic monsoon rain that hardly shows any furry on the landscape attracts many honeymooners to this exquisite state. The state also has high literacy rates, high life expectancy, and highest female gender ratio and the people are very hospitable. The state also has many eco-tourism projects that include many adventure trips and it is a chance to know the nature and wilderness from up close.
+</p>
+
+<!-- Holiday itenary.Optional highlights starts here-->
+<p></p>
+<h4 class="display-4">Highlights of the package</h4>
+<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-thumbs-up"></span> &nbsp; Flower Decoration at Munnar and Kovalam  </p>
+<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-thumbs-up"></span> &nbsp; One Candle Light Dinner at Munnar and Houseboat </p>
+<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-thumbs-up"></span> &nbsp; Ayurvedic Massage at Kovalam for Couple  </p>
+<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-thumbs-up"></span> &nbsp; Cake at Munnar and Houseboat  </p>
+<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-thumbs-up"></span> &nbsp; Souvenir on departure </p>						
+<p></p>
+<!-- Holiday itenary.Optional highlights ends here-->
+		
+<h4 class="display-4">Package Itenary</h4>
+<div class="col-md-7">
+  <div class="panel-group" id="accordion">
+	 <div class="panel panel-info">
+	 
+		<!-- start Holiday itenary.Repeat this block for other days.Please change div id in two places accordingly-->
+		<div class="panel-heading">
+		   <h4 class="panel-title">
+			  <a data-toggle="collapse" data-parent="#accordion" href="#day1"><span class="glyphicon glyphicon-plus"></span>&nbsp;&nbsp;Day 1 : ARRIVE DELHI - AGRA</a>
+		   </h4>
+		</div>
+		<div id="day1" class="panel-collapse collapse">
+		   <div class="panel-body">
+			  <div class="row"> 
+			   <div class="col-md-12">							  
+					<p class="h5-responsive">
+						You will be picked from Cochin Airport / Ernakulam railway station and drive to Athirampilly - about 63 km. Athirampilly Waterfalls is a popular picnic spot where water plunges from a height of nearly 80 feet before joining the Chalakudi River. Check in to the hotel on arrival and spend the day at leisure. Overnight stay is arranged in Athirampilly
+					</p>  
+				 </div>
+			  </div>
+			  <p></p>
+		   </div>
+		</div>
+		 <p></p>
+		<!-- End Holiday itenary.Repeat this block for other days-->
+		
+		 <!-- start Holiday itenary.Repeat this block for other days.Please change div id in two places accordingly-->
+		<div class="panel-heading">
+		   <h4 class="panel-title">
+			  <a data-toggle="collapse" data-parent="#accordion" href="#day2"><span class="glyphicon glyphicon-plus"></span>&nbsp;&nbsp;Day 2 : AGRA - FATEHPUR SIKRI - JAIPUR</a>
+		   </h4>
+		</div>
+		<div id="day2" class="panel-collapse collapse">
+		   <div class="panel-body">
+			  <div class="row"> 
+			   <div class="col-md-12">							  
+					<p class="h5-responsive">
+						After breakfast check out from the hotel and drive to Munnar (05 Hrs). On the way enjoy some waterfalls and natural scenic spots. On arrival at Munnar check into Hotel and relax for the rest of the day. Overnight stay at the hotel will be arranged.
+					</p>  
+				 </div>
+			  </div>
+			  <p></p>
+		   </div>
+		</div>
+		<p></p>
+		<!-- End Holiday itenary.Repeat this block for other days-->
+		
+	 </div>
+	 
+  </div>
+  <!-- End Holiday description. -->				  
+</div>
+<!-- End .col-md-7 -->
+<div class="col-md-7"> 
+
+	<!-- Holiday itenary.Package includes starts here-->
+	<h4 class="display-4">Package Includes</h4>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-ok"></span> &nbsp; Accommodation on twin sharing basis  </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-ok"></span> &nbsp; Meal - Breakfast and Dinner at the hotels </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-ok"></span> &nbsp; All Meals (Breakfas,Lunch and Dinner) at houseboat  </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-ok"></span> &nbsp; Pick up from Cochin & drop at Trivandrum  </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-ok"></span> &nbsp; AC Indica for Deluxe category of Hotel  </p>						
+	<p></p>
+	<!-- Holiday itenary.Package inludes ends here-->
+	
+	
+	<!-- Holiday itenary.Package excludes starts here-->
+	<h4 class="display-4">Package Excludes</h4>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-remove"></span> &nbsp; Lunch at Hotel  </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-remove"></span> &nbsp; Any portage at airports and hotels, tips, insurance, wine mineral water, telephone charges, guide charges, boating charges, entrance fees and all items of personal nature </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-remove"></span> &nbsp; Room Service  </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-remove"></span> &nbsp; Any service not specified in inclusions  </p>
+	<p class="h5-responsive"><span class="glyphicon glyphicon glyphicon-remove"></span> &nbsp; Telephone calls and laundry  </p>						
+	<p></p>
+	<!-- Holiday itenary.Package excludes ends here-->
+	
+</div>
